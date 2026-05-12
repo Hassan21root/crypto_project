@@ -1,0 +1,16 @@
+StudentID,FirstName,LastName,Email,GPA,Major,Year
+S001,Ahmed,Hassan,ahmed.hassan@university.edu,3.85,Computer Science,3
+S002,Fatima,Ali,fatima.ali@university.edu,3.72,Electrical Engineering,2
+S003,Omar,Khaled,omar.khaled@university.edu,3.91,Cybersecurity,4
+S004,Nour,Ibrahim,nour.ibrahim@university.edu,3.45,Information Systems,1
+S005,Youssef,Mahmoud,youssef.mahmoud@university.edu,3.67,Computer Science,2
+S006,Layla,Ahmed,layla.ahmed@university.edu,3.88,Cybersecurity,3
+S007,Karim,Mostafa,karim.mostafa@university.edu,3.55,Electrical Engineering,4
+S008,Sara,Nasser,sara.nasser@university.edu,3.93,Computer Science,2
+S009,Tarek,Farouk,tarek.farouk@university.edu,3.78,Information Systems,3
+S010,Hana,Salem,hana.salem@university.edu,3.62,Cybersecurity,1
+S011,Bilal,Younis,bilal.younis@university.edu,3.41,Computer Science,4
+S012,Rania,Adel,rania.adel@university.edu,3.76,Electrical Engineering,2
+S013,Ziad,Hamdan,ziad.hamdan@university.edu,3.83,Cybersecurity,3
+S014,Dina,Fawzy,dina.fawzy@university.edu,3.59,Information Systems,1
+S015,Malik,Osman,malik.osman@university.edu,3.97,Computer Science,4

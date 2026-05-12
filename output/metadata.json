@@ -1,0 +1,7 @@
+{
+  "iv": "8SYW3wgVpg9bo5wm0ppjug==",
+  "encrypted_aes_key": "Uj0KkAJ3XzAXSKEF7mAEeuNeu4agc/d+OG1H7KCvDLI/TdziQKED1Rc83fZ6cXkPe7kmIn4FGxliBkNSZWVzO8XVH1limnjUYh/e/ypk7ofEXogUMbzxQnS+0dvtnoTWO0PPYaWo9RIicul6Ni2mFhmxD7b/mUibqtUP5hoXs2xxdwQ1ypMcptSPE27zHNOLX0yTJsSW9vGAujSDqSWYvbM/V69fCTWLmVf7o5dURTyEjq1+OL7wYBmRJt6LiRq1uqA0rTaqCKsrFQoiqA+YbZ1jdW2K+8TbiSFr/ArSI03fHyLEld0NsaTjdbPcR6+Lhzc7eLtKoJI2uGH5qsrWjQ==",
+  "aes_mode": "AES-256-CBC",
+  "rsa_bits": 2048,
+  "padding": "PKCS7"
+}
